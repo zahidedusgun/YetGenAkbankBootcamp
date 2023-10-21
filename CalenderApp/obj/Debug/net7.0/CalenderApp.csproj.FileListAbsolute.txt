@@ -1,0 +1,4 @@
+C:\Users\Zahide Düşgün\Desktop\CalenderApp\CalenderApp\obj\Debug\net7.0\CalenderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahide Düşgün\Desktop\CalenderApp\CalenderApp\obj\Debug\net7.0\CalenderApp.AssemblyInfoInputs.cache
+C:\Users\Zahide Düşgün\Desktop\CalenderApp\CalenderApp\obj\Debug\net7.0\CalenderApp.AssemblyInfo.cs
+C:\Users\Zahide Düşgün\Desktop\CalenderApp\CalenderApp\obj\Debug\net7.0\CalenderApp.csproj.CoreCompileInputs.cache
