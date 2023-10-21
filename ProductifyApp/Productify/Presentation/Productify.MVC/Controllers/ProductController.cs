@@ -1,19 +1,36 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Productify.Domain.Entities;
+using Productify.Persistance.Context;
 
 namespace Productify.MVC.Controllers
 {
     public class ProductController : Controller
     {
-        // GET: ProductController
-        public ActionResult GetAll()
+        ProductifyDbContext _context;
+
+        public ProductController()
         {
-            return View();
+            _context = new();
+        }
+        // GET: ProductController
+        public IActionResult GetAll()
+        {
+            return View(_context.Products.ToList());
         }
 
         // GET: AddProductController
-        public ActionResult AddProduct()
+        [HttpGet]
+        public IActionResult AddProduct()
         {
+            return View(_context.Products.ToList());
+        }
+
+        [HttpPost]
+        public IActionResult AddProduct(string productName)
+        {
+            _context.Products.Add(new(productName));
+            _context.SaveChanges();
             return View();
         }
     }

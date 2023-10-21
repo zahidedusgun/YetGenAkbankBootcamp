@@ -1,0 +1,15 @@
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\bin\Debug\net7.0\Productify.Persistance.deps.json
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\bin\Debug\net7.0\Productify.Persistance.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\bin\Debug\net7.0\Productify.Persistance.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\bin\Debug\net7.0\Productify.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\bin\Debug\net7.0\Productify.Domain.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.csproj.AssemblyReference.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.AssemblyInfoInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.AssemblyInfo.cs
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.csproj.CopyComplete
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\refint\Productify.Persistance.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\Productify.Persistance.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\ProductifyApp\Productify\Infrastructure\Productify.Persistance\obj\Debug\net7.0\ref\Productify.Persistance.dll
