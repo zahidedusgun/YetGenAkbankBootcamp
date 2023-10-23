@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zahide Düşgün\\Desktop\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj": {}
+    "C:\\Users\\Zahide Düşgün\\Desktop\\YetGenAkbankBootcamp\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zahide Düşgün\\Desktop\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj": {
+    "C:\\Users\\Zahide Düşgün\\Desktop\\YetGenAkbankBootcamp\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zahide Düşgün\\Desktop\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Zahide Düşgün\\Desktop\\YetGenAkbankBootcamp\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
         "projectName": "ReDoMusic.Domain",
-        "projectPath": "C:\\Users\\Zahide Düşgün\\Desktop\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
+        "projectPath": "C:\\Users\\Zahide Düşgün\\Desktop\\YetGenAkbankBootcamp\\ReDoMusic\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
         "packagesPath": "C:\\Users\\Zahide Düşgün\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zahide Düşgün\\Desktop\\ReDoMusic\\Core\\ReDoMusic.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Zahide Düşgün\\Desktop\\YetGenAkbankBootcamp\\ReDoMusic\\Core\\ReDoMusic.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zahide Düşgün\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
