@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ReDoMusic.Domain.Common
 {
-    internal interface IModifiedOn
+    public interface IModifiedOn
     {
-        public DateTime ModifiedOn { get; set; }
+        public DateTime? ModifiedOn { get; set; }
 
     }
 }
