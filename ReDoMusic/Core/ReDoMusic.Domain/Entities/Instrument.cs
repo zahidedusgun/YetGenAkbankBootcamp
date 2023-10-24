@@ -1,5 +1,4 @@
 ﻿using ReDoMusic.Domain.Common;
-using ReDoMusic.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
