@@ -17,8 +17,4 @@
     <ProjectReference Include="..\..\Infrastructure\ReDoMusic.Persistence\ReDoMusic.Persistence.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

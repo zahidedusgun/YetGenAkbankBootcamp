@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ReDoMusic.Domain.Entities;
-using ReDoMusic.Domain.Enums;
 
 namespace ReDoMusic.Persistence.Contexts
 {
