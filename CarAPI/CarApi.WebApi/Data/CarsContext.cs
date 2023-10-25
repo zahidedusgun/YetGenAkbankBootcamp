@@ -8,11 +8,6 @@ namespace CarApi.WebApi.Data
         {
             new Car
             {
-                Id = new Guid("  "), Make = "Rolls-Royce", Model = "Phantom",
-                Price = 455000m, ImageUrl = "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-series-ii-in-detail/page-properties/01_RR_PHANTOM-single-twin-card-min.jpg"
-            },
-            new Car
-            {
                 Id = new Guid("0d37d14f-1289-4b8e-8f1b-83bc8bb01c90"), Make = "Bentley", Model = "Mulsanne",
                 Price = 304200m, ImageUrl = "https://assets.whichcar.com.au/image/upload/s--lsQxH7QE--/c_fill,f_auto,q_auto:good/t_p_16x9/v1/archive/whichcar/2020/01/15/-1/Bentley-Mulsanne-6.75-Edition-revealed.jpg"
             },
