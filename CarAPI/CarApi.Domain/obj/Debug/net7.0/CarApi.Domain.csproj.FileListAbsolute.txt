@@ -1,0 +1,11 @@
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\bin\Debug\net7.0\CarApi.Domain.deps.json
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\bin\Debug\net7.0\CarApi.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\bin\Debug\net7.0\CarApi.Domain.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\CarApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\CarApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\CarApi.Domain.AssemblyInfo.cs
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\CarApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\CarApi.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\refint\CarApi.Domain.dll
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\CarApi.Domain.pdb
+C:\Users\Zahide Düşgün\Desktop\YetGenAkbankBootcamp\CarAPI\CarApi.Domain\obj\Debug\net7.0\ref\CarApi.Domain.dll
