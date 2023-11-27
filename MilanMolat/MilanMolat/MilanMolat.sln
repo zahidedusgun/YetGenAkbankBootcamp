@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{01A98AC9-CAFD-4552-AE7E-E594085F9C63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E5A4D452-F288-4C29-9DB9-07C330586AD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presensentation", "Presensentation", "{D07C79C4-872A-4B7E-886E-8F916753E4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilanMolat.API", "Presentation\MilanMolat.API\MilanMolat.API.csproj", "{2FB8B8F8-3D79-431E-A896-8BAED024D44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilanMolat.Infrastructure", "Persistance\MilanMolat.Infrastructure\MilanMolat.Infrastructure.csproj", "{2A559283-A35B-4288-AE5D-F520DA06E59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilanMolat.Domain", "Core\MilanMolat.Domain\MilanMolat.Domain.csproj", "{7E69710A-C4F4-4A93-B06C-A80971CBE992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilanMolat.Application", "Core\MilanMolat.Application\MilanMolat.Application.csproj", "{D4E74A5C-A794-45E6-AF60-425F3B7C4729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB8B8F8-3D79-431E-A896-8BAED024D44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB8B8F8-3D79-431E-A896-8BAED024D44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB8B8F8-3D79-431E-A896-8BAED024D44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB8B8F8-3D79-431E-A896-8BAED024D44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A559283-A35B-4288-AE5D-F520DA06E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A559283-A35B-4288-AE5D-F520DA06E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A559283-A35B-4288-AE5D-F520DA06E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A559283-A35B-4288-AE5D-F520DA06E59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E69710A-C4F4-4A93-B06C-A80971CBE992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E69710A-C4F4-4A93-B06C-A80971CBE992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E69710A-C4F4-4A93-B06C-A80971CBE992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E69710A-C4F4-4A93-B06C-A80971CBE992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E74A5C-A794-45E6-AF60-425F3B7C4729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E74A5C-A794-45E6-AF60-425F3B7C4729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E74A5C-A794-45E6-AF60-425F3B7C4729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E74A5C-A794-45E6-AF60-425F3B7C4729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2FB8B8F8-3D79-431E-A896-8BAED024D44F} = {D07C79C4-872A-4B7E-886E-8F916753E4F7}
+		{2A559283-A35B-4288-AE5D-F520DA06E59D} = {E5A4D452-F288-4C29-9DB9-07C330586AD8}
+		{7E69710A-C4F4-4A93-B06C-A80971CBE992} = {01A98AC9-CAFD-4552-AE7E-E594085F9C63}
+		{D4E74A5C-A794-45E6-AF60-425F3B7C4729} = {01A98AC9-CAFD-4552-AE7E-E594085F9C63}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5E0BAE-EAFF-468A-A3C5-458486BE597E}
+	EndGlobalSection
+EndGlobal
