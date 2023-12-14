@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Domain", "Identity
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Persistence", "Identity.Persistence\Identity.Persistence.csproj", "{D6A19BC4-7AC2-41D9-9FCE-E19B68F5D4E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.WebApi", "Identity.WebApi\Identity.WebApi.csproj", "{827D3350-C817-41BC-9242-254F624857E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.WebApi", "Identity.WebApi\Identity.WebApi.csproj", "{827D3350-C817-41BC-9242-254F624857E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.MVC", "Identity.MVC\Identity.MVC.csproj", "{01F2B9C8-BC83-44D5-B1B4-AFD3F587C53A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{827D3350-C817-41BC-9242-254F624857E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{827D3350-C817-41BC-9242-254F624857E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{827D3350-C817-41BC-9242-254F624857E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F2B9C8-BC83-44D5-B1B4-AFD3F587C53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F2B9C8-BC83-44D5-B1B4-AFD3F587C53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F2B9C8-BC83-44D5-B1B4-AFD3F587C53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F2B9C8-BC83-44D5-B1B4-AFD3F587C53A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
